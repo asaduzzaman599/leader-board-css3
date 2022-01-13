@@ -67,7 +67,7 @@ hr {
 }
 
 .navbar .logo-title,
-.navbar .nav-info {
+.nav-info {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -109,6 +109,11 @@ hr {
 
     border-bottom: 2px solid white;
 }
+
+#toggle-button {
+    display: none;
+}
+
 
 /* main section style  */
 
